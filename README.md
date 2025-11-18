@@ -9,7 +9,7 @@ A simple scroll effect and page transition inspired by [Vitalii Burhonskyi](http
 [Demo](http://tympanus.net/Development/ImageToContent/)
 
 
-## Installation
+## Installation.
 
 Install dependencies:
 
